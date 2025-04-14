@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Bhargavi, a beginner in software development.  
+Currently learning Java, Python, and MERN stack.
+
+- 🌱 Exploring MERN and building small projects
+- 💻 Trying out coding problems to improve
+- 📫 Reach me at:
+- LinkedIn: https://linkedin.com/in/bhargaviiik
 
 <!--
 **bhargaviiik/bhargaviiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
